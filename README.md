@@ -1,6 +1,7 @@
-# Minimal Node.js Hello World example
+# Site to host MKDOcs for Hands on Labs
 
-This repo contains a minimal hello world application written in Node. This repo will document the many ways you can deploy this application.
+This repo contains a minimal hello world application written in Node. This repo will document the many ways you can deploy this application
+to host MK DOcs web site to IBM Cloud.
 
 ## Run locally
 
