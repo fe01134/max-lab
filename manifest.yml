@@ -4,5 +4,6 @@ applications:
   name: mam-hol
   buildpack: nodejs_buildpack
   memory: 256M
+  disk_quota: 700M
   instances: 1
-  random-route: true
+
